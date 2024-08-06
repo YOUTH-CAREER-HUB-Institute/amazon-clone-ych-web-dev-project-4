@@ -79,7 +79,6 @@ class Cart{
 };
 
 
-
 //OBJECT CREATION
 //amazonNormalCart,businessCart = REFERENCE VARIABLE, object name, instance of a cart class
 const amazonNormalCart = new Cart('cart-oops');
